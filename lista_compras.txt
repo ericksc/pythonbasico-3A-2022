@@ -1,0 +1,4 @@
+apple,400
+pear,500
+grapes,300
+limon,30
